@@ -8,4 +8,4 @@ solution where our classic rest APIs can be hosted side to side with our graphql
 Download the project, run `npm install` and `node app.js` and query the data using graphql 
 in `http://localhost:4000/graphql/`. The classic APIs will be hosted on `http://localhost:4000/rest`.
 The project is not complete, i have a lot of things to add to mutations and resolvers, so you can 
-mutate the data with graphql queries. <3
+mutate the data with graphql queries. :boom:
